@@ -1,0 +1,15 @@
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/bin/Debug/net7.0/ThreeDConsoleGraphics
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/bin/Debug/net7.0/ThreeDConsoleGraphics.deps.json
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/bin/Debug/net7.0/ThreeDConsoleGraphics.runtimeconfig.json
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/bin/Debug/net7.0/ThreeDConsoleGraphics.dll
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/bin/Debug/net7.0/ThreeDConsoleGraphics.pdb
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.csproj.AssemblyReference.cache
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.AssemblyInfoInputs.cache
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.AssemblyInfo.cs
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.csproj.CoreCompileInputs.cache
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.dll
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/refint/ThreeDConsoleGraphics.dll
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.pdb
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ThreeDConsoleGraphics.genruntimeconfig.cache
+/Users/10212005/RiderProjects/ThreeDConsoleGraphics/ThreeDConsoleGraphics/obj/Debug/net7.0/ref/ThreeDConsoleGraphics.dll
